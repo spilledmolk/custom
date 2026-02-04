@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+  </style>
+</head>
+<body>
+<p class="p1">{</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"theme_info": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"title": "MooshCustom",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"author": "ope-nz | u/spilledmolk",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"authorUrl": "https://github.com/ope-nz/InnoasisY1Themes",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"description": "Custom"</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"themeCover": "cover.png",</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"themeColor": "#FFFFFF",</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"themeTextColor": "#FFFFFF",</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"desktopWallpaper": "desk.png",</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"globalWallpaper": "desk.png",</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"fontFamily": "Chicago.otf",</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"itemConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"itemTextColor": "#DE8585 ",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"itemSelectedTextColor": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"itemSelectedBackground": "#BFB8B6",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"itemBackground": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"itemRightArrow": "2.png"</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"dialogConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"dialogOptionBackground": "desk.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"dialogOptionTextColor": "#FFFFFF",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"dialogOptionSelectedBackground": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"dialogOptionSelectedTextColor": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"dialogBackgroundColor": "#ffffff"</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"menuConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"menuBackgroundColor": "desk.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"menuItemBackground": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"menuItemTextColor": "#E8C3C3",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"menuItemSelectedBackground": "1.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"menuItemSelectedTextColor": ""</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"homePageConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"nowPlaying": "Citymapper.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"music": "Music.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"video": "YouTube.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"audiobooks": "Kindle.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"photos": "Photos.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"fm": "Radio.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"bluetooth": "Bluetooth.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"settings": "Settings.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"shuffleQuick": "Shuffle.png"</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"fileConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"folderIcon": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"musicIcon": ""</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"settingConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"shutdown": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_off": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_10": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_20": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_30": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_60": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_90": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"timedShutdown_120": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"shuffleOn": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"shuffleOff": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"repeatOff": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"repeatAll": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"repeatOne": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_normal": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_classical": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_dance": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_flat": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_folk": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_heavymetal": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_hiphop": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_jazz": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_pop": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"equalizer_rock": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"keyLockOn": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"keyLockOff": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"keyToneOn": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"keyToneOff": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"keyVibrationOn": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"keyVibrationOff": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"wallpaper": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_10": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_15": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_30": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_45": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_60": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_120": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_300": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"backlight_always": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"brightness": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"displayBatteryOn": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"displayBatteryOff": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"dateTime": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"language": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"factoryReset": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"clearCache": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"theme": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"fileExtensionOn": "transparent.png",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"fileExtensionOff": "transparent.png"</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"statusConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"playing": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"audiobookPlaying": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"pause": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"fmPlaying": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"stop": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"blConnected": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"blConnecting": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"blDisconnected": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"headsetWithMic": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"headsetWithoutMic": "",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"statusBarColor": "#282425"</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>"playerConfig": {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"progressColor": "#282425",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>"progressBackgroundColor": ""</p>
+<p class="p1"><span class="Apple-converted-space">    </span>}</p>
+<p class="p1">}</p>
+</body>
+</html>
